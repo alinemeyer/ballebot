@@ -1,2 +1,2 @@
 # ballebot
-Landing page com HTML e CSS feita na aula da Rafaella Ballerini.
+Landing page feita com HTML e CSS na aula da Rafaella Ballerini.
